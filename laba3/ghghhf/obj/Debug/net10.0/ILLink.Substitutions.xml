@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ghghhf">
+    <resource name="FSharpSignatureData.ghghhf" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ghghhf" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ghghhf" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ghghhf" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ghghhf" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ghghhf" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ghghhf" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ghghhf" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ghghhf" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ghghhf" action="remove"></resource>
+  </assembly>
+</linker>
